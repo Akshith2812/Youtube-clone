@@ -1,0 +1,32 @@
+.new {
+    text-align: center;
+    font-size: 24px;
+    color:rgb(255, 149, 0);
+
+}
+
+.book {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.text {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 80px;
+    line-height: 100px;
+}
+
+.price {
+    text-align: center;
+    font-size: 35px;
+}
+
+.buy {
+    align-content: center;
+    background-color: rgb(0, 110, 255);
+    border-radius: 40px;
+    border:none;
+    
+}
